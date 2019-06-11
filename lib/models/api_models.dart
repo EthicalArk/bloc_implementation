@@ -80,7 +80,7 @@ class Item {
     int headingaccuracy;
     int interceptions;
     int jumping;
-    int longpassing;~
+    int longpassing;
     int longshots;
     int marking;
     int penalties;
